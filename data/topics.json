@@ -1,0 +1,7 @@
+[
+    {"id": "fractions", "difficulty": 0.4},
+    {"id": "exponents", "difficulty": 0.6},
+    {"id": "linear_equations", "difficulty": 0.5},
+    {"id": "probability", "difficulty": 0.7},
+    {"id": "ratios", "difficulty": 0.3}
+  ]
